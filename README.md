@@ -28,6 +28,9 @@ flowchart LR
     RAG_Agent --> PostgreSQL_Chat_Memory
 ```
 
+
+
+
 ![Workflow Diagram](img-refer/Workflow.png)
 
 1. Documents (e.g., PDFs) are loaded from Google Drive and chunked into smaller parts.
