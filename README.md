@@ -61,7 +61,7 @@ Below are key screenshots showing major stages of the RAG AI Agent lifecycle as 
   Example of an agent node connecting to embedding models and vector search.
 
 - **Vectorization Pipeline**  
-  ![RAG Pipeline](img-refer/RAG-pipleline.png)
+  ![RAG Pipeline](img-refer/RAG-pipeline.png)
     
   A schematic (or n8n node screenshot) illustrating the flow: document  chunking → embedding → vector DB upload.
 
