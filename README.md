@@ -47,6 +47,7 @@ Below are key screenshots showing major stages of the RAG AI Agent lifecycle as 
 
 - **PDF Ingestion**  
   ![PDF Ingestion](img-refer/pdf.png)
+  
   documents are loaded from Google Drive or user uploads as part of the
   automation flow.
  
@@ -56,6 +57,7 @@ Below are key screenshots showing major stages of the RAG AI Agent lifecycle as 
   The central view of the RAG agent orchestration—showing tools, nodes, and   integration points within n8n.  
 
   ![RAG Agent Example 2](img-refer/RAG-Agent2.png)
+  
   Example of an agent node connecting to embedding models and vector search.
 
 - **Vectorization Pipeline**  
