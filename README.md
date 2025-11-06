@@ -17,20 +17,6 @@ This project automates the process of vectorizing documents, embedding them into
 
 ## Workflow Architecture
 
-```mermaid
-flowchart LR
-    Google_Drive --> Document_Chunking
-    Document_Chunking --> Embeddings
-    Embeddings --> Supabase_Vector_Store
-    User_Query --> RAG_Agent
-    RAG_Agent --> Supabase_Vector_Store
-    RAG_Agent --> OpenAI_Chat_Model
-    RAG_Agent --> PostgreSQL_Chat_Memory
-```
-
-
-
-
 ![Workflow Diagram](img-refer/Workflow.png)
 
 1. Documents (e.g., PDFs) are loaded from Google Drive and chunked into smaller parts.
