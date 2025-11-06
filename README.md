@@ -74,8 +74,7 @@ Below are key screenshots showing major stages of the RAG AI Agent lifecycle as 
 
 ### How the RAG AI Workflow Works
 
-This automation leverages n8n to connect document data sources, process content into searchable vectors, and trigger a retrieval-augmented AI agent to answer questions using your private knowledge base. The diagram and screenshots below give an at-a-glance guide to the core components and data paths.
-
+This automation leverages n8n to connect document data sources, process content into searchable vectors, and trigger a retrieval-augmented AI agent to answer questions using your private knowledge base. 
 ***
 
 ## Technologies Used
